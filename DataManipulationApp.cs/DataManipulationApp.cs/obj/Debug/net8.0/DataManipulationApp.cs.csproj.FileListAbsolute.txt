@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\bin\Debug\net8.0\DataManipulationApp.cs.exe
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\bin\Debug\net8.0\DataManipulationApp.cs.deps.json
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\bin\Debug\net8.0\DataManipulationApp.cs.runtimeconfig.json
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\bin\Debug\net8.0\DataManipulationApp.cs.dll
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\bin\Debug\net8.0\DataManipulationApp.cs.pdb
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.dll
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\refint\DataManipulationApp.cs.dll
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.pdb
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\DataManipulationApp.cs.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\DataManipulationApp.cs\DataManipulationApp.cs\obj\Debug\net8.0\ref\DataManipulationApp.cs.dll
