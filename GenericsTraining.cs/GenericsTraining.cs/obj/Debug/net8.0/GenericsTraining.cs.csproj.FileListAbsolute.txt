@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\bin\Debug\net8.0\GenericsTraining.cs.exe
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\bin\Debug\net8.0\GenericsTraining.cs.deps.json
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\bin\Debug\net8.0\GenericsTraining.cs.runtimeconfig.json
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\bin\Debug\net8.0\GenericsTraining.cs.dll
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\bin\Debug\net8.0\GenericsTraining.cs.pdb
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.dll
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\refint\GenericsTraining.cs.dll
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.pdb
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\GenericsTraining.cs.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\GenericsTraining.cs\GenericsTraining.cs\obj\Debug\net8.0\ref\GenericsTraining.cs.dll

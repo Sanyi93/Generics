@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GenericsTraining.cs/1.0.0": {
+        "runtime": {
+          "GenericsTraining.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericsTraining.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
