@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\bin\Debug\net8.0\GenericsAssignment1.cs.exe
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\bin\Debug\net8.0\GenericsAssignment1.cs.deps.json
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\bin\Debug\net8.0\GenericsAssignment1.cs.runtimeconfig.json
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\bin\Debug\net8.0\GenericsAssignment1.cs.dll
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\bin\Debug\net8.0\GenericsAssignment1.cs.pdb
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.dll
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\refint\GenericsAssignment1.cs.dll
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.pdb
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\GenericsAssignment1.cs.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\GenericsAssignment1.cs\GenericsAssignment1.cs\obj\Debug\net8.0\ref\GenericsAssignment1.cs.dll
