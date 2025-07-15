@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\bin\Debug\net8.0\LinqTraining.cs.exe
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\bin\Debug\net8.0\LinqTraining.cs.deps.json
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\bin\Debug\net8.0\LinqTraining.cs.runtimeconfig.json
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\bin\Debug\net8.0\LinqTraining.cs.dll
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\bin\Debug\net8.0\LinqTraining.cs.pdb
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.dll
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\refint\LinqTraining.cs.dll
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.pdb
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\LinqTraining.cs.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\LinqTraining.cs\LinqTraining.cs\obj\Debug\net8.0\ref\LinqTraining.cs.dll
