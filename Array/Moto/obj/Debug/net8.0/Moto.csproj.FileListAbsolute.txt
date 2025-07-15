@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\Array\Moto\bin\Debug\net8.0\Moto.exe
+C:\Users\ifswtan\source\repos\Array\Moto\bin\Debug\net8.0\Moto.deps.json
+C:\Users\ifswtan\source\repos\Array\Moto\bin\Debug\net8.0\Moto.runtimeconfig.json
+C:\Users\ifswtan\source\repos\Array\Moto\bin\Debug\net8.0\Moto.dll
+C:\Users\ifswtan\source\repos\Array\Moto\bin\Debug\net8.0\Moto.pdb
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.dll
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\refint\Moto.dll
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.pdb
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\Moto.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\Array\Moto\obj\Debug\net8.0\ref\Moto.dll

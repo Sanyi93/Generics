@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\Array\PersonProject\bin\Debug\net8.0\PersonProject.exe
+C:\Users\ifswtan\source\repos\Array\PersonProject\bin\Debug\net8.0\PersonProject.deps.json
+C:\Users\ifswtan\source\repos\Array\PersonProject\bin\Debug\net8.0\PersonProject.runtimeconfig.json
+C:\Users\ifswtan\source\repos\Array\PersonProject\bin\Debug\net8.0\PersonProject.dll
+C:\Users\ifswtan\source\repos\Array\PersonProject\bin\Debug\net8.0\PersonProject.pdb
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.dll
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\refint\PersonProject.dll
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.pdb
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\PersonProject.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\Array\PersonProject\obj\Debug\net8.0\ref\PersonProject.dll
